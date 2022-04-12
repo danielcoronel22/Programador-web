@@ -3,3 +3,4 @@ manzanas
 huevos 
 galletitas 
 dulces
+chocolates
