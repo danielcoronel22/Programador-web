@@ -1,5 +1,4 @@
-bananas
-manzanas 
+bananas 
 huevos 
 galletitas 
 dulces
